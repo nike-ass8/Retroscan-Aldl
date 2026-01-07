@@ -1,0 +1,11 @@
+{
+  "name": "RetroScan ALDL",
+  "description": "Diagnostikverktyg för äldre GM/Opel ECM-system (ALDL/OBD-I) optimerat för Lilygo BLE.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone",
+    "bluetooth",
+    "serial"
+  ]
+}

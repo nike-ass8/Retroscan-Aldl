@@ -1,0 +1,18 @@
+
+{
+  "name": "RetroScan ALDL",
+  "short_name": "RetroScan",
+  "description": "ALDL Diagnostikverktyg för GM/Opel",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067451.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -13,7 +13,7 @@
     "types": [
       "node"
     ],
-    "moduleResolution": "bundler",
+    "bundler": "bundler",
     "isolatedModules": true,
     "moduleDetection": "force",
     "allowJs": true,
